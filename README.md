@@ -10,3 +10,4 @@ Fully responsive design (works on desktop and mobile)
 Modern layout with soft colors
 Clean typography
 Easy-to-read and well-organized code
+LINK : https://aryaa-mahi.github.io/Landing-Page/
